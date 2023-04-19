@@ -1,5 +1,5 @@
 header {
-	padding: 30px; 30px; 
+	padding: 30px 30px; 
 }
 
 header img {
@@ -39,6 +39,7 @@ header nav li a.active {
 .featured h4 {
 	margin-bottom: 30px;
 	font-family: 'Roboto', sans-serif; 
+	font-weight: 400;
 }
 
 .featured .box {
@@ -74,3 +75,10 @@ header nav li a.active {
 	width: 350px;
 	margin-left: 60px;
 } 
+
+footer ul li {
+	margin-left: 104px;
+	display: inline-block;
+	margin-top: 69px;
+	margin-bottom: 36px;
+}

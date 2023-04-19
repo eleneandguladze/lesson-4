@@ -1,0 +1,84 @@
+header {
+	padding: 30px 30px; 
+}
+
+header img {
+	display: inline-block;
+	vertical-align: middle;
+}
+
+header nav {
+	display: inline-block;
+	vertical-align: middle;
+	margin-left: 49.81px;
+}
+
+header nav li{
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: 27px;
+}
+header nav li a {
+	color:#3D58A6;
+	font-size: 22px;
+	font-family: BPG Nino Mtavruli;
+}
+header nav li a.active {
+	color: #EE4036;
+}
+.calendar {
+	height: 56px;
+    width: 56px;
+    left: 30px;
+    top: 100px;
+    background-color: #3D58A6;
+    margin-left: 30px;
+    margin-bottom: 7px;
+    font-size: 37px;
+    color: #FFFFFF;
+    padding: 12px 10px;
+}
+
+h4 {
+	margin-top: 7px;
+	margin-left: 30px; 
+	font-family: BPG Nino Mtavruli;
+	color: #3D58A6;
+	font-size: 22px;
+	font-weight: 400;
+}
+
+.one {
+	margin-left: 30px;
+	margin-top: 22px;
+	font-family: BPG Nino Mtavruli;
+	color: #000000;
+	font-size: 20px;
+	font-weight: 400;
+}
+
+img {
+	margin-left: 30px;
+	padding-top: 16px;
+}
+.text {
+	font-family: BPG Ingiri Arial 2008;
+	font-size: 16px;
+	color: #000000;
+	margin-left: 340px;
+	margin-right: 106px;
+}
+.text2 {
+	font-family: BPG Ingiri Arial 2008;
+	font-size: 16px;
+	color: #000000;
+	margin-left: 340px;
+	margin-right: 106px;
+	padding-top: 24px;
+}
+footer ul li {
+	margin-left: 104px;
+	display: inline-block;
+	margin-top: 69px;
+	margin-bottom: 36px;
+}

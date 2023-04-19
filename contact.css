@@ -1,0 +1,81 @@
+header {
+	padding: 30px 30px; 
+}
+
+header img {
+	display: inline-block;
+	vertical-align: middle;
+}
+
+header nav {
+	display: inline-block;
+	vertical-align: middle;
+	margin-left: 49.81px;
+}
+
+header nav li{
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: 27px;
+}
+header nav li a {
+	color:#3D58A6;
+	font-size: 22px;
+	font-family: BPG Nino Mtavruli;
+}
+header nav li a.active {
+	color: #EE4036;
+}
+
+.gray {
+	box-sizing: 20px;
+	background-color: #D9D9D9;
+	display: inline-block;
+}
+
+p {
+	color: #3D58A6;
+	font-size: 20px;
+	font-family: BPG Nino Mtavruli;
+	margin-left: 100px;
+	margin-top: 52px;
+}
+.misamarti {
+	margin-left: 100px;
+	font-family: BPG Ingiri Arial 2008;
+	font-size: 16px;
+	margin-top: 10px;
+	size: 22px;
+}
+
+.tel {
+	margin-left: 100px;
+	font-family: BPG Ingiri Arial 2008;
+	font-size: 16px;
+	margin-top: 5px;
+	size: 22px;
+}
+
+.mail {
+	margin-left: 100px;
+	font-family: BPG Ingiri Arial 2008;
+	font-size: 16px;
+	margin-top: 5px;
+	size: 22px;
+}
+span {
+	color: #808080;
+}
+
+iframe {
+	width: 849px;
+	height: 465px;
+	margin-top: 137px;
+	margin-bottom: 143px;
+}
+footer ul li {
+	margin-left: 104px;
+	display: inline-block;
+	margin-top: 69px;
+	margin-bottom: 36px;
+}

@@ -2,3 +2,7 @@
 	font-family: BPG Nino Mtavruli;
 	src: url('./fonts/bpg-nino-mtavruli-bold-webfont.ttf');
 }
+@font-face {
+	font-family: BPG Ingiri arial webfont;
+	src: url('./font/bpg-ingiri-arial-webfont.ttf');
+}
