@@ -21,6 +21,7 @@ header nav li{
 header nav li a {
 	color:#3D58A6;
 	font-size: 22px;
+	font-family: BPG Nino Mtavruli;
 }
 header nav li a.active {
 	color: #EE4036;
@@ -37,6 +38,7 @@ header nav li a.active {
 }
 .featured h4 {
 	margin-bottom: 30px;
+	font-family: 'Roboto', sans-serif; 
 }
 
 .featured .box {
@@ -56,12 +58,14 @@ header nav li a.active {
 	color: #3D58A6;
 	font-size: 22px;
 	text-transform: uppercase;
-	margin-bottom: 15px;  
+	margin-bottom: 15px;
+	font-family: 'Roboto', sans-serif;  
 }
 
 .box-container img {
     display: inline-block;
     vertical-align: middle;
+
 }
 
 .box-container p {
